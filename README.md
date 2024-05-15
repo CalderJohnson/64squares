@@ -1,4 +1,4 @@
-Chess AI, trained with deep reinforcement learning
+Chess AI work in progress, trained with deep reinforcement learning
 
 This chess engine trains itself using a modified version of the Monte Carlo Search Tree
 
