@@ -1,6 +1,6 @@
-Chess AI work in progress, trained with deep reinforcement learning
+Chess AI work in progress, trained with deep reinforcement learning.
 
-This chess engine trains itself using a modified version of the Monte Carlo Search Tree
+This chess engine trains itself using a modified version of the Monte Carlo Search Tree.
 
 Our MCTS works by: 
 1. Selection: Traverse the tree using the computed values of the nodes picked from a normal distribution until a leaf is reached.
